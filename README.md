@@ -1,10 +1,10 @@
 ## About coba laravel
 
-Ini adalah project Saya belajar laravel. Project ini berupa web blog pribadi dengan fitur Create Read Update Delete (CRUD) agar dapat menambah, mengubah, dan menghapus postingan pada blog. Project ini menggunakan bahasa pemrograman PHP 8 dengan framework Laravel 9.
+<p>Ini adalah project Saya belajar laravel. Project ini berupa web blog pribadi dengan fitur Create Read Update Delete (CRUD) agar dapat menambah, mengubah, dan menghapus postingan pada blog. Project ini menggunakan bahasa pemrograman PHP 8 dengan framework Laravel 9.</p>
 
-Gunakan fitur registrasi untuk membuat akun user biasa. Untuk login menggunakan Admin, gunakan akun ini:
-email: admin@gmail.com
-pw: password
+<p>Gunakan fitur registrasi untuk membuat akun user biasa. Untuk login menggunakan Admin, gunakan akun ini:</p>
+<p>email: admin@gmail.com</p>
+<p>pw: password</p>
 
 ##
 
