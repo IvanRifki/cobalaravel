@@ -1,6 +1,12 @@
-## About Laravel
+## About coba laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be tru
+Ini adalah project Saya belajar laravel. Project ini berupa web blog pribadi dengan fitur Create Read Update Delete (CRUD) agar dapat menambah, mengubah, dan menghapus postingan pada blog. Project ini menggunakan bahasa pemrograman PHP 8 dengan framework Laravel 9.
+
+Gunakan fitur registrasi untuk membuat akun user biasa. Untuk login menggunakan Admin, gunakan akun ini:
+email: admin@gmail.com
+pw: password
+
+##
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
